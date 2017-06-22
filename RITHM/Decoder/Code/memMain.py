@@ -1,7 +1,7 @@
 # Test Program to decypher the template
 
 import time, os, re, sys, timeit
-from decode import decoder
+from memDecode import decoder
 from combine import csvcombine
 
 start = timeit.default_timer()
